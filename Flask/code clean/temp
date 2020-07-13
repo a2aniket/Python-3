@@ -1,0 +1,3 @@
+PS C:\Users\ART\Downloads> pip install .\mysqlclient-1.4.6-cp37-cp37m-win32.whl
+
+pip install Flask-Mail

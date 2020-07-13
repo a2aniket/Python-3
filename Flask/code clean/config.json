@@ -1,0 +1,11 @@
+{
+ "params":
+ {
+   "loacl_server": "True",
+   "local_uri": "mysql://root:@localhost/myfirst",
+   "prod_uri": "mysql://root:@localhost/myfirst",
+   "fb_url": "https://web.whatsapp.com/",
+   "gmail_username": "codewith.art777@gmail.com",
+   "gmail_password": "Gocodeit2*2"
+ }
+}
